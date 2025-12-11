@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Challenge: A classy gallery</title>
+        <title>"animal gallary"</title>
         <style>
             body {
                 font-family: cursive;
